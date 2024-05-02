@@ -1,5 +1,4 @@
 
-```markdown
 # Tkinter Events Reference
 
 Tkinter provides various events that you can bind to widgets to trigger specific actions. Here's a list of commonly used events along with their syntax and explanations:
